@@ -1,0 +1,16 @@
+{
+    "searchBar":{
+        "locator": "#txtHotelName",
+        "description": "Hotels search field"
+    },
+
+    "popup": {
+        "locator": ".trmn2",
+        "description": "Popup close button"
+    },
+
+    "hotelNamesList": {
+        "locator": ".htl_ttl",
+        "description": "List of hotel names"
+    }
+}

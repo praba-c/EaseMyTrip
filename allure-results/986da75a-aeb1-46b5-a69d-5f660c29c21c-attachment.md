@@ -1,0 +1,438 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - link "easemytrip.com" [ref=e11] [cursor=pointer]:
+      - /url: /
+    - list [ref=e15]:
+      - listitem [ref=e16]:
+        - link "flights" [ref=e17] [cursor=pointer]:
+          - /url: /flights.html
+          - generic [ref=e19]: flights
+      - listitem [ref=e20]:
+        - link "hotels" [ref=e21] [cursor=pointer]:
+          - /url: /hotels/
+          - generic [ref=e23]: hotels
+      - listitem [ref=e24]:
+        - link "flight + hotel" [ref=e25] [cursor=pointer]:
+          - /url: https://fph.easemytrip.com/
+          - generic [ref=e27]: flight + hotel
+      - listitem [ref=e28]:
+        - link "trains" [ref=e29] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/railways/
+          - generic [ref=e31]: trains
+      - listitem [ref=e32]:
+        - link "bus" [ref=e33] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/bus/
+          - generic [ref=e35]: bus
+      - listitem [ref=e36]:
+        - link "holidays" [ref=e37] [cursor=pointer]:
+          - /url: /holidays/
+          - generic [ref=e39]: holidays
+      - listitem [ref=e40]:
+        - link "cabs" [ref=e41] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/cabs/
+          - generic [ref=e43]: cabs
+      - listitem [ref=e44]:
+        - link "activities" [ref=e45] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/activities/
+          - generic [ref=e47]: activities
+      - listitem [ref=e48]:
+        - link "Visa" [ref=e49] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/visa-booking/
+          - generic [ref=e51]: Visa
+      - listitem [ref=e52] [cursor=pointer]:
+        - generic [ref=e55]: More
+        - generic:
+          - link "EasyEloped For Romantic Getaways" [ref=e56]:
+            - /url: https://www.easyeloped.com/
+            - generic [ref=e58]:
+              - generic [ref=e59]: EasyEloped
+              - generic [ref=e60]: For Romantic Getaways
+          - link "EasyDarshan Spiritual Tours in India" [ref=e61]:
+            - /url: https://www.easydarshan.com/
+            - generic [ref=e63]:
+              - generic [ref=e64]: EasyDarshan
+              - generic [ref=e65]: Spiritual Tours in India
+          - link "Airport Experience Enjoy airport service" [ref=e66]:
+            - /url: https://www.easemytrip.com/airport-experience.html
+            - generic [ref=e68]:
+              - generic [ref=e69]: Airport Experience
+              - generic [ref=e70]: Enjoy airport service
+          - link "Gift Card Buy giftcards here" [ref=e71]:
+            - /url: https://www.easemytrip.com/giftcard
+            - generic [ref=e73]:
+              - generic [ref=e74]: Gift Card
+              - generic [ref=e75]: Buy giftcards here
+          - link "Offers Check Best latest offers" [ref=e76]:
+            - /url: https://www.easemytrip.com/deals.html
+            - generic [ref=e78]:
+              - generic [ref=e79]: Offers
+              - generic [ref=e80]: Check Best latest offers
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic [ref=e85] [cursor=pointer]:
+            - generic [ref=e87]: Customer Service
+            - generic:
+              - generic [ref=e91]:
+                - generic [ref=e92]: Call Support
+                - generic [ref=e93]: "Tel : 011 - 43131313, 43030303"
+              - link "Mail Support Care.easemytrip.com" [ref=e94]:
+                - /url: mailto:care.easemytrip.com
+                - generic [ref=e96]:
+                  - generic [ref=e97]: Mail Support
+                  - generic [ref=e98]: Care.easemytrip.com
+          - img "Switch to high contrast mode" [ref=e101] [cursor=pointer]
+        - generic [ref=e102] [cursor=pointer]:
+          - generic [ref=e103]: Login or Signup
+          - generic:
+            - generic [ref=e106]:
+              - generic [ref=e107]: Customer Login
+              - generic [ref=e108]: Login & check bookings
+            - link "Corporate Travel Login corporate account" [ref=e109]:
+              - /url: /corporate/
+              - generic [ref=e111]:
+                - generic [ref=e112]: Corporate Travel
+                - generic [ref=e113]: Login corporate account
+            - link "Agent Login Login your agent account" [ref=e114]:
+              - /url: /agents/
+              - generic [ref=e116]:
+                - generic [ref=e117]: Agent Login
+                - generic [ref=e118]: Login your agent account
+            - link "My Booking Manage your bookings here" [ref=e119]:
+              - /url: https://mybookings.easemytrip.com/
+              - generic [ref=e121]:
+                - generic [ref=e122]: My Booking
+                - generic [ref=e123]: Manage your bookings here
+      - generic [ref=e125]:
+        - generic [ref=e128]:
+          - generic:
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - generic [ref=e132]: Enjoy Massive Savings
+                - generic [ref=e133]:
+                  - text: With Discounted Fares on Flight
+                  - text: Bookings.
+              - img "Flight" [ref=e135]
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - generic [ref=e139]: Check-in to Savings!
+                - generic [ref=e140]:
+                  - text: Book Your Favorite Hotel Now at
+                  - text: Exclusive Prices.
+              - img "Hotel" [ref=e142]
+            - generic [ref=e144]:
+              - generic [ref=e145]:
+                - generic [ref=e146]: Exclusive Bus Deal!
+                - generic [ref=e147]:
+                  - text: Unlock Special Discounts on Bus
+                  - text: Bookings.
+              - img "Bus" [ref=e149]
+            - generic [ref=e151]:
+              - generic [ref=e152]:
+                - generic [ref=e153]: Invite & Earn!
+                - generic [ref=e154]:
+                  - text: Invite Your Friends & Get Up to INR 2000*
+                  - text: In Your EMT Wallet.
+              - img "Invite" [ref=e156]
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - generic [ref=e167]: Login or Create an account
+            - generic [ref=e168] [cursor=pointer]: ×
+          - generic [ref=e170]:
+            - textbox "Email ID or Mobile Number" [ref=e171]
+            - generic [ref=e172]: Email ID or Mobile Number
+          - button "Continue" [ref=e174] [cursor=pointer]
+          - generic [ref=e175]:
+            - generic [ref=e176]: Or Login Via
+            - generic [ref=e177]:
+              - generic [ref=e178] [cursor=pointer]:
+                - img "Google" [ref=e179]
+                - generic [ref=e180]: Google
+              - generic [ref=e181] [cursor=pointer]:
+                - img "Facebook" [ref=e182]
+                - generic [ref=e183]: Facebook
+          - generic [ref=e186]:
+            - text: By logging in, I understand & agree to EaseMyTrip
+            - link "terms of use" [ref=e187] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/terms.html
+            - text: and
+            - link "privacy policy" [ref=e188] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/privacy-policy.html
+  - generic [ref=e190]:
+    - generic [ref=e191]:
+      - list:
+        - listitem [ref=e192]: 1. Review and Travellers
+        - listitem [ref=e193]
+        - listitem [ref=e195]: 2. Payment
+    - generic [ref=e196]:
+      - generic [ref=e199]:
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - heading "The Accord Metropolitan" [level=4] [ref=e205]
+            - generic [ref=e208]:
+              - img [ref=e209]
+              - img [ref=e210]
+              - img [ref=e211]
+              - img [ref=e212]
+              - img [ref=e213]
+            - link "[Change Hotel]" [ref=e214] [cursor=pointer]:
+              - /url: /hotel-new/search?cityName=The%20Accord%20Metropolitan&checkinDate=06%2F12%2F2025&checkoutDate=07%2F12%2F2025&Rooms=1&pax=2&src=traveller&tid=2025121154652
+          - generic [ref=e215]: Just 2 Kms Away From Us Embassy, 35, Gopathi Narayanaswami Chetty Rd, Lakshimi Colony, T. Nagar, Chennai, Tamil Nadu 600017
+          - img "Hotel Image" [ref=e217]
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - generic [ref=e221]: Check-In
+                - generic [ref=e222]: 06 Dec 2025
+                - generic [ref=e223]: 02:00 PM
+              - generic [ref=e224]:
+                - generic [ref=e225]: Check-Out
+                - generic [ref=e226]: 07 Dec 2025
+                - generic [ref=e227]: 12:00 PM
+              - generic [ref=e228]:
+                - generic [ref=e229]: Guest
+                - generic [ref=e230]: 2 Adults
+                - generic [ref=e231]:
+                  - text: 1 Room
+                  - generic [ref=e232]: "| 1 Night"
+            - generic [ref=e234]:
+              - generic [ref=e235]:
+                - 'heading "Room Type: Superior Twin" [level=5] [ref=e236]'
+                - link "[Change Room]" [ref=e237] [cursor=pointer]:
+                  - /url: /hotel-new/details?cityName=The%20Accord%20Metropolitan&checkinDate=06%2F12%2F2025&checkoutDate=07%2F12%2F2025&Rooms=1&pax=2&emthid=EMTHOTEL-1056298&hid=&tid=2025121154652
+              - generic [ref=e238]: "Inclusions:"
+              - generic [ref=e239]:
+                - img [ref=e240]
+                - text: Room service discount
+              - generic [ref=e241]:
+                - img [ref=e242]
+                - text: Spa discount
+              - generic [ref=e243]:
+                - img [ref=e244]
+                - text: Early check-in
+              - generic [ref=e245]:
+                - img [ref=e246]
+                - text: Late check-out
+              - generic [ref=e247]:
+                - img [ref=e248]
+                - text: Parking
+              - generic [ref=e249]:
+                - img [ref=e250]
+                - text: Express check-in
+              - generic [ref=e251]:
+                - img [ref=e252]
+                - text: Free WiFi
+              - generic [ref=e253]:
+                - img [ref=e254]
+                - text: Drinking water
+              - generic [ref=e255]:
+                - img [ref=e256]
+                - text: Free fitness center access
+              - generic [ref=e257]: "Cancellation Policy:"
+              - list [ref=e258]:
+                - listitem [ref=e259]: NonRefundable Booking
+        - generic [ref=e260]:
+          - generic [ref=e261]: Guest Details
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - generic [ref=e264]: Room 1
+              - generic [ref=e265]:
+                - generic [ref=e266]: Adult 1
+                - generic [ref=e267]:
+                  - generic [ref=e268]: Title
+                  - combobox [ref=e270] [cursor=pointer]:
+                    - option "Mr." [selected]
+                    - option "Mrs."
+                    - option "Ms."
+                - generic [ref=e271]:
+                  - generic [ref=e272]: First Name
+                  - textbox "Enter first name" [ref=e273]: qsbcb
+                - generic [ref=e274]:
+                  - generic [ref=e275]: Last Name
+                  - textbox "Enter last name" [ref=e276]: lbsbo
+            - generic [ref=e277]:
+              - generic [ref=e278]: Contact Details
+              - generic [ref=e279]:
+                - generic [ref=e280]: Email Address
+                - textbox "Enter email address" [ref=e281]: email@email.com
+              - generic [ref=e282]:
+                - generic [ref=e283]: Mobile Number
+                - combobox [ref=e285] [cursor=pointer]:
+                  - option "+91" [selected]
+                  - option "+44"
+                  - option "+66"
+                  - option "+1"
+                  - option "+971"
+                - textbox "Enter Mobile Number" [ref=e286]: "1234567890"
+              - paragraph [ref=e287]: Your booking details will be sent to this email address and mobile number.
+        - generic [ref=e289]:
+          - generic [ref=e290]: Help us preserve India’s Heritage & Green Spaces!
+          - generic [ref=e291]: Support the EaseMyTrip Foundation and donate to maintain greenery & cleanliness across parks and ASI monuments for future generations.Know More
+          - img [ref=e292]
+          - list [ref=e294]:
+            - listitem [ref=e295]:
+              - generic [ref=e296] [cursor=pointer]: ₹ 10
+            - listitem [ref=e297]:
+              - generic [ref=e298] [cursor=pointer]: ₹ 20
+            - listitem [ref=e299]:
+              - generic [ref=e300] [cursor=pointer]: ₹ 50
+            - listitem [ref=e301]:
+              - generic [ref=e302] [cursor=pointer]: ₹ 100
+        - generic [ref=e304] [cursor=pointer]:
+          - generic [ref=e305]:
+            - text: I understand and agree to the rules of this fare, the
+            - link "Terms & Conditions" [ref=e306]:
+              - /url: javascript:void(0)
+            - text: and
+            - link "Privacy Policy" [ref=e307]:
+              - /url: https://www.easemytrip.com/privacy-policy.html
+            - text: of EaseMyTrip
+          - checkbox "I understand and agree to the rules of this fare, the Terms & Conditions and Privacy Policy of EaseMyTrip" [checked]
+        - button "Continue Booking" [ref=e310] [cursor=pointer]
+      - generic [ref=e313]:
+        - generic [ref=e314]:
+          - generic [ref=e315]: Room Price Details
+          - generic:
+            - generic [ref=e316]:
+              - generic [ref=e317]: 1 Room X 1 Night
+              - generic [ref=e319]: ₹ 9,499
+            - generic [ref=e320]:
+              - generic [ref=e321]: Total Discount
+              - generic [ref=e324]:
+                - text: "-"
+                - generic [ref=e325]: ₹ 1,140
+            - generic [ref=e326]:
+              - generic [ref=e327]: Price After Discount
+              - generic [ref=e329]: ₹ 8,359
+            - generic [ref=e330]:
+              - generic [ref=e331]: Taxes & fees
+              - generic [ref=e333]: ₹ 2,271
+            - generic [ref=e334]:
+              - generic [ref=e335]: Grand Total
+              - generic [ref=e336]: ₹ 10,630
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - heading "Offers & Promo Codes" [level=4] [ref=e340]
+            - img "Coupon" [ref=e341]
+          - generic [ref=e342]:
+            - generic [ref=e343]:
+              - generic [ref=e344] [cursor=pointer]: Remove
+              - textbox "Enter promo code" [ref=e345]: EMTHOTELS
+            - paragraph [ref=e346]: Congratulations! Instant Discount of Rs. 1140 has been applied successfully.
+            - generic [ref=e348] [cursor=pointer]:
+              - generic [ref=e349]:
+                - generic [ref=e351]: EMTHOTELS
+                - generic [ref=e352]: EMTHOTELS - Get Rs. 1140 Off on hotel booking
+              - radio "EMTHOTELS EMTHOTELS - Get Rs. 1140 Off on hotel booking" [ref=e353]
+            - generic [ref=e356] [cursor=pointer]:
+              - generic [ref=e357]:
+                - generic [ref=e359]: EMTSALE
+                - generic [ref=e360]: Get ₹ 1425 Off on Hotel Booking[ ₹855 instant discount + ₹570 Cashback].
+              - radio "EMTSALE Get ₹ 1425 Off on Hotel Booking[ ₹855 instant discount + ₹570 Cashback]." [ref=e361]
+            - generic [ref=e364] [cursor=pointer]:
+              - generic [ref=e365]:
+                - generic [ref=e367]: EASEDAY
+                - generic [ref=e368]: Get flat Rs. 800 OFF on hotel booking
+              - radio "EASEDAY Get flat Rs. 800 OFF on hotel booking" [checked] [active] [ref=e369]
+            - generic [ref=e372] [cursor=pointer]:
+              - generic [ref=e373]:
+                - generic [ref=e375]: PNBEMT
+                - generic [ref=e376]: Use this coupon and get Rs.1900 OFF for payments made via Punjab National Bank EMT Credit Cards only.
+              - radio "PNBEMT Use this coupon and get Rs.1900 OFF for payments made via Punjab National Bank EMT Credit Cards only." [ref=e377]
+            - link "View All Offers" [ref=e380] [cursor=pointer]:
+              - /url: javascript:void(0)
+  - iframe [ref=e382]:
+    - generic [ref=f1e2]:
+      - generic [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - list [ref=f1e8]:
+            - button "OUR OFFERINGS" [ref=f1e9] [cursor=pointer]
+            - button "QUICK LINKS" [ref=f1e10] [cursor=pointer]
+            - button "POPULAR DESTINATION" [ref=f1e11] [cursor=pointer]
+            - button "INTERNATIONAL DESTINATION" [ref=f1e12] [cursor=pointer]
+            - button "POPULAR AIRLINE" [ref=f1e13] [cursor=pointer]
+            - button "CONNECT WITH US" [ref=f1e14] [cursor=pointer]
+            - button "OFFERS" [ref=f1e15] [cursor=pointer]
+            - button "EMT INSIGHTS" [ref=f1e16] [cursor=pointer]
+            - button "MEDIA" [ref=f1e17] [cursor=pointer]
+            - link "INVESTOR RELATIONS" [ref=f1e18] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/investor-relations.html
+            - link "CURRENT OPENINGS" [ref=f1e19] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/career.html
+          - generic [ref=f1e21]:
+            - paragraph [ref=f1e22]: Make your travel easy with a wide range of products and services.
+            - list [ref=f1e24]:
+              - listitem [ref=f1e25]:
+                - link "Flight" [ref=f1e26] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/flights/
+              - listitem [ref=f1e27]:
+                - link "Hotels" [ref=f1e28] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/hotels/
+              - listitem [ref=f1e29]:
+                - link "Trains" [ref=f1e30] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/railways/
+              - listitem [ref=f1e31]:
+                - link "Holidays" [ref=f1e32] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/holidays/
+              - listitem [ref=f1e33]:
+                - link "Bus" [ref=f1e34] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/bus/
+              - listitem [ref=f1e35]:
+                - link "Cabs" [ref=f1e36] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/
+              - listitem [ref=f1e37]:
+                - link "Airlines" [ref=f1e38] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/directory/airlines.html
+              - listitem [ref=f1e39]:
+                - link "Airports" [ref=f1e40] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/directory/airports-in-india.html
+              - listitem [ref=f1e41]:
+                - link "Travel Guides" [ref=f1e42] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/travel-guides.html
+              - listitem [ref=f1e43]:
+                - link "Check PNR Status" [ref=f1e44] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/railways/pnr-status/
+              - listitem [ref=f1e45]:
+                - link "EMT PRO" [ref=f1e46] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/JoinEMTPro
+              - listitem [ref=f1e47]:
+                - link "Activities" [ref=f1e48] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/activities/
+              - listitem [ref=f1e49]:
+                - link "Travel Updates" [ref=f1e50] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/travel-updates.html
+              - listitem [ref=f1e51]:
+                - link "Corporate travel" [ref=f1e52] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/corporate
+              - listitem [ref=f1e53]:
+                - link "Blog" [ref=f1e54] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/blog/
+              - listitem [ref=f1e55]:
+                - link "Flight Check-in" [ref=f1e56] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/flights/web-check-in/
+              - listitem [ref=f1e57]:
+                - link "VIP Cabs" [ref=f1e58] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/bookvipcabs.html
+        - generic [ref=f1e59]:
+          - generic [ref=f1e60]:
+            - img "EaseMyTrip.com" [ref=f1e62]
+            - paragraph [ref=f1e64]: EaseMyTrip offers 'End to End' travel solutions including air tickets for more than 400 international and domestic airlines, hotel bookings for nearly 1 million hotels in India and abroad, cab booking with 4000+ cab operators, bus tickets with 2000+ bus operators, and railway tickets in India for all major cities.
+          - generic [ref=f1e65]:
+            - generic [ref=f1e66]: DOWNLOAD EASEMYTRIP APP
+            - generic [ref=f1e68]:
+              - link "Download on Android" [ref=f1e70] [cursor=pointer]:
+                - /url: //play.google.com/store/apps/details?id=com.easemytrip.android
+                - img "Download on Android" [ref=f1e71]
+              - link "Download on IOS" [ref=f1e73] [cursor=pointer]:
+                - /url: https://itunes.apple.com/in/app/easemytrip-flight-booking/id1053030595?mt=8
+                - img "Download on IOS" [ref=f1e74]
+          - generic [ref=f1e75]:
+            - generic [ref=f1e76]: SCAN QR CODE
+            - img [ref=f1e80]
+      - generic [ref=f1e81]:
+        - generic [ref=f1e82]: Copyright © 2025 EaseMyTrip
+        - img [ref=f1e84]
+```

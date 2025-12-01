@@ -1,0 +1,26 @@
+{
+    "upiInputField": {
+        "locator": "#txtUpi",
+        "description": "Input field for UPI"
+    }, 
+
+    "bankOptions": {
+        "locator": "#ddlSelectUPITez",
+        "description": "Dropdown of bank lists"
+    },
+
+    "verifyAndPayBtn": {
+        "locator": "//div[@class='vrfybtn']",
+        "description": "Verify and pay button"
+    },
+
+    "radioBtn": {
+        "locator": "#rdoContinue",
+        "description": "Radio button for without discount"
+    },
+
+    "continueBtn": {
+        "locator": ".cont_btn",
+        "description": "Continue button"
+    }
+}

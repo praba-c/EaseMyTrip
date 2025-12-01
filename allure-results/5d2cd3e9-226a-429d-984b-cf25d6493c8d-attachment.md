@@ -1,0 +1,25 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - img [ref=e6]
+  - strong [ref=e9]: Please Wait
+  - generic [ref=e10]:
+    - generic [ref=e11]: Your Request is Being Processed
+    - generic [ref=e12]: Please do not click the refresh, back, or stop buttons until the itinerary page is displayed. Open your UPI application on your smartphone.Complete the payment by entering your UPI PIN.
+  - generic [ref=e13]:
+    - text: "To Complete your online payment please follow the steps below:"
+    - generic [ref=e14]: Time left = 9:51
+    - generic [ref=e15]:
+      - generic [ref=e16]: How to pay through UPI?
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - img [ref=e20]
+          - generic [ref=e21]: Open the UPI app on your mobile. Tap on the notification that you received from EaseMyTrip in SMS
+        - generic [ref=e22]:
+          - img [ref=e24]
+          - generic [ref=e25]: Check the request from EaseMyTrip in pending transactions in your linked UPI app
+        - generic [ref=e26]:
+          - img [ref=e28]
+          - generic [ref=e29]: Accept the request and complete the payment by entering the UPI PIN
+```

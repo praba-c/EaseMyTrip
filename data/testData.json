@@ -1,0 +1,28 @@
+{
+    "homePage": {
+        "place": "Chennai"
+    },
+
+    "hotelPage": {
+        "key": "Accord",
+        "dates": {
+            "checkIn": "6-Dec-2025",
+            "checkOut": "7-Dec-2025"
+        },
+        "count": "2"
+    },
+
+    "hotelReviewPage": {
+        "guestDetails": {
+            "firstName": "qsbcb",
+            "lastName": "lbsbo",
+            "email": "email@email.com",
+            "mobile": "1234567890"
+        }
+    },
+
+    "hotelPaymentPage": {
+        "upiId": "1234567890",
+        "bank": "sbi"
+    }
+}

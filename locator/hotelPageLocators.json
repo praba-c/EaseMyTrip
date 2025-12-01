@@ -1,0 +1,47 @@
+{
+
+    "monthsNameList": {
+        "locator": ".ui-datepicker-month",
+        "description": "List of month names"
+    },
+
+    "monthsNextBtn": {
+        "locator": ".ui-datepicker-next",
+        "description": "Next month button"
+    },
+
+    "datesList": {
+        "locator": "//td[@data-handler='selectDay']",
+        "description": "List of availabel days"
+    },
+
+    "adultCount": {
+        "locator": "#Adults_room_1_1",
+        "description": "Default adult count value"
+    },
+
+    "adultCountMinusBtn": {
+        "locator": "#Adults_room_1_1_minus",
+        "description": "Adults count minus button"
+    },
+
+    "adultCountPlusBtn": {
+        "locator": "#Adults_room_1_1_plus",
+        "description": "Adults count plus button"
+    },
+
+    "roomsDoneBtn": {
+        "locator": "#exithotelroom",
+        "description": "Done button for rooms tab"
+    },
+
+    "roomsPriceList": {
+        "locator": "//div[@class='act_price']",
+        "description": "List of rooms prices"
+    },
+
+    "bookNowBtn": {
+        "locator": ".fill-btn",
+        "description": "Book now button"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "hotelDetails": {
+        "locator": "#divHotelDetails",
+        "description": "Hotel details"
+    },
+
+    "promoCodes": {
+        "locator": "//div[@class='dspl-flex justify-cnt-btwn']/span",
+        "description": "List of offers and promo code"
+    },
+
+    "totalPrice": {
+        "locator": ".ttlfrsum span",
+        "description": "Price value"
+    },
+
+    "firstNameInputField": {
+        "locator": ".in.ng-untouched",
+        "description": "Input field for First name"
+    },
+
+    "lastNameInputField": {
+        "locator": ".in.ng-untouched",
+        "description": "Input field for Last name"
+    },
+
+    "emailInputField": {
+        "locator": ".cont-inpt.ng-untouched",
+        "description": "Input field for email"
+    },
+
+    "mobileInputField": {
+        "locator": ".mob-inpt.ng-untouched",
+        "description": "Input field for Mobile number"
+    },
+
+    "continueBookingBtn": {
+        "locator": ".coonpayment",
+        "description": "Continue booking button"
+    },
+
+    "closeBtn": {
+        "locator": "//div[contains(text(), 'Login')]/following-sibling::div[@class='_crosslog']",
+        "description": "Close button for login pop-up"
+    }
+}

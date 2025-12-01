@@ -1,0 +1,16 @@
+{
+    "popup": {
+        "locator": ".close_o_pp2",
+        "description": "Close button for popup"
+    },
+
+    "logo": {
+        "locator": ".newHeaderLogo.desk_logo",
+        "description": "Easemytrip logo"
+    },
+
+    "places": {
+        "locator": "._hdngfvplc",
+        "description": "List of places to stay"
+    }
+}
